@@ -1,84 +1,137 @@
-📊 Sales Insights Dashboard | Power BI
-📌 Project Overview
+# 📊 Sales Insights Dashboard | Power BI
 
-This project presents an interactive Sales Insights Dashboard developed in Power BI to analyze sales performance, revenue trends, profit margins, customer segments, and market contributions. The dashboard enables users to explore key business metrics through dynamic filters and interactive visualizations, helping support data-driven business decisions.
+An interactive **Sales Insights Dashboard** built in **Microsoft Power BI** to analyze sales performance, revenue trends, profit margins, customer contributions, and market performance. The dashboard provides dynamic visualizations and interactive filters to help users explore business data and make informed decisions.
 
-📂 Dataset
-Source: Codebasics Sales Insights Dataset
-Domain: Sales Analytics
-Tool: Microsoft Power BI
-Dashboard Type: Interactive Business Intelligence Dashboard
+---
 
+## 📌 Project Overview
 
-🛠️ Tools & Skills Used
-Microsoft Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Cleaning
-Data Transformation
-KPI Reporting
-Interactive Dashboards
-Business Intelligence
-Data Visualization
-📊 Dashboard Features
-📈 Revenue KPI
-📦 Sales Quantity KPI
-💰 Total Profit Margin KPI
-📅 Year & Month Interactive Slicers
-📍 Revenue by Market
-📊 Sales Quantity by Market
-📉 Revenue Trend Analysis
-🏆 Top Customers Analysis
-📦 Top Products Analysis
-📍 Market-wise Revenue Contribution
-💹 Profit Margin Analysis
-📋 Customer Performance Table
-📊 Revenue vs Profit Comparison
-🔍 Fully Interactive Dashboard
-📈 Business Insights
-Generated 986.7M total revenue.
-Recorded over 2M sales quantity.
-Achieved 197.3M total profit margin.
-Delhi NCR contributed more than 50% of total revenue.
-Identified top-performing products and customers.
-Compared revenue, sales quantity, and profit margin across different markets.
-Analyzed monthly revenue trends and business performance over multiple years.
-📂 Dashboard Pages
-📌 1. Key Insights
+This dashboard transforms raw sales data into meaningful business insights using **Power BI**, **Power Query**, and **DAX**. It enables users to monitor key performance indicators (KPIs), compare market performance, identify top customers and products, and analyze revenue trends across multiple years.
 
-Provides a high-level overview of:
+---
 
-Revenue
-Sales Quantity
-Revenue Trend
-Top Products
-Customer Distribution
-Market Performance
-📌 2. Profit Analysis
+## 📂 Dataset Information
 
-Focuses on:
+| Attribute | Details |
+|----------|---------|
+| **Dataset** | Sales Insights Dataset |
+| **Source** | Codebasics |
+| **Domain** | Sales Analytics |
+| **Tool** | Microsoft Power BI |
+| **Dashboard Type** | Interactive Business Intelligence Dashboard |
 
-Profit Contribution by Market
-Revenue Contribution
-Revenue Trend
-Customer Profit Margin
-Profit Comparison Across Markets
-📌 3. Performance Insights
+---
 
-Includes:
+## 🛠️ Tools & Technologies
 
-Customer-wise Revenue
-Revenue Contribution %
-Profit Margin Contribution %
-Revenue Trend Comparison
-Top Revenue Contributors
-📸 Dashboard Preview
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Cleaning
+- Data Transformation
+- KPI Reporting
+- Business Intelligence
+- Data Visualization
 
-Add screenshots here.
+---
 
-![Key Insights](images/key_insights.png)
+## 📊 Dashboard Features
 
-![Profit Analysis](images/profit_analysis.png)
+- Interactive KPI Cards (Revenue, Sales Quantity, Profit Margin)
+- Year and Month Slicers
+- Revenue Trend Analysis
+- Revenue by Market
+- Sales Quantity by Market
+- Revenue Contribution by Market
+- Profit Contribution by Market
+- Top Products Analysis
+- Top Customers Analysis
+- Customer Performance Table
+- Revenue vs Profit Comparison
+- Interactive Filtering Across All Visuals
 
-![Performance Insights](images/performance_insights.png)
+---
+
+## 📈 Key Business Insights
+
+- Generated **986.7M** in total revenue.
+- Recorded over **2M** sales quantity.
+- Achieved **197.3M** total profit margin.
+- Delhi NCR contributed over **50%** of the overall revenue.
+- Identified top-performing markets, products, and customers.
+- Analyzed revenue and profit trends over multiple years.
+- Compared market performance to support business decision-making.
+
+---
+
+## 📑 Dashboard Pages
+
+### 🔹 Key Insights
+
+- Revenue Overview
+- Sales Quantity
+- Revenue Trend
+- Top Products
+- Customer Distribution
+- Market Performance
+
+---
+
+### 🔹 Profit Analysis
+
+- Profit Contribution by Market
+- Revenue Contribution
+- Revenue Trend
+- Customer Profit Margin
+- Market-wise Profit Analysis
+
+---
+
+### 🔹 Performance Insights
+
+- Customer Revenue Analysis
+- Revenue Contribution %
+- Profit Margin Contribution %
+- Revenue Trend Comparison
+- Top Revenue Contributors
+
+---
+
+## 📷 Dashboard Preview
+
+### 🏠 Key Insights
+
+![Key Insights](key_insights.png)
+
+---
+
+### 📈 Profit Analysis
+
+![Profit Analysis](profit_analysis.png)
+
+---
+
+### 📊 Performance Insights
+
+![Performance Insights](performance_insights.png)
+
+---
+
+## 💼 Skills Demonstrated
+
+- Business Intelligence (BI)
+- Dashboard Design
+- Data Modeling
+- DAX Calculations
+- Power Query
+- KPI Development
+- Sales & Profit Analysis
+- Customer Analytics
+- Market Performance Analysis
+- Data Visualization
+- Interactive Reporting
+- Data Storytelling
+
+---
+
