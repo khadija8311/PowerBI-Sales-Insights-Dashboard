@@ -1,9 +1,5 @@
 # 📊 Sales Insights Dashboard | Power BI
 
-An interactive **Sales Insights Dashboard** built in **Microsoft Power BI** to analyze sales performance, revenue trends, profit margins, customer contributions, and market performance. The dashboard provides dynamic visualizations and interactive filters to help users explore business data and make informed decisions.
-
----
-
 ## 📌 Project Overview
 
 This dashboard transforms raw sales data into meaningful business insights using **Power BI**, **Power Query**, and **DAX**. It enables users to monitor key performance indicators (KPIs), compare market performance, identify top customers and products, and analyze revenue trends across multiple years.
