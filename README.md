@@ -98,20 +98,6 @@ This dashboard transforms raw sales data into meaningful business insights using
 
 ---
 
-## 📷 Dashboard Preview
-
-### 🏠 Key Insights
-
----
-
-### 📈 Profit Analysis
-
----
-
-### 📊 Performance Insights
-
----
-
 ## 💼 Skills Demonstrated
 
 - Business Intelligence (BI)
