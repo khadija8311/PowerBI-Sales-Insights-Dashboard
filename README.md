@@ -102,19 +102,13 @@ This dashboard transforms raw sales data into meaningful business insights using
 
 ### 🏠 Key Insights
 
-![Key Insights](key_insights.png)
-
 ---
 
 ### 📈 Profit Analysis
 
-![Profit Analysis](profit_analysis.png)
-
 ---
 
 ### 📊 Performance Insights
-
-![Performance Insights](performance_insights.png)
 
 ---
 
